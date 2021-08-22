@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bdalfavero
+- 👀 I’m interested in computational physics and quantum computing.
+- 🌱 I’m currently learning C.

@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @bdalfavero
-- 👀 I’m interested in computational physics and quantum computing.
-- 🌱 I’m currently learning C.
+Hi, I'm Benjamin DalFavero. I am currently studying computational physics and conducting research on quantum computing with cold atoms.
